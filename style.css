@@ -1,0 +1,78 @@
+.gradient{
+    background: linear-gradient(to right,  #061161, #780206); 
+    
+  }
+  .gradient1{
+    background: linear-gradient(to right, #1a2a6c, #b21f1f, #fdbb2d);
+  }
+  
+   .navbr{
+    background: linear-gradient(to right,  #061161, #780206); 
+   }
+
+    .navbar .navbar-nav > li > a {
+
+  font-size: 21px;
+color:#fdbb2d;
+margin-bottom:5px;
+}
+
+.page-header{
+color:white;
+font-family: 'Barlow', sans-serif;
+font-size: 20px;
+background: linear-gradient(to right, #061161, #780206); 
+}
+.hov ul li:hover
+    {
+        background-color:#061161;
+        
+        transition: .9s;
+    }
+
+
+.feature {
+background: linear-gradient(to left,  #061161, #780206); 
+color:white;
+font-family: 'Barlow', sans-serif;
+font-size: 20px;
+
+}
+.feature ul{
+padding-left: 2rem;
+}
+.feature ul li{
+background-image: url(img/check.svg);
+list-style-type:none;
+padding-left: 2rem;
+margin-bottom:1rem;
+background-repeat: no-repeat;
+color:white;
+}
+
+.icon{
+color:white;
+height:5rem;
+width:5rem;
+font-size: 2rem;
+border-radius: 100%;
+align-items: center;
+justify-content: center;
+display:inline-flex;
+}
+
+.gallery{
+background-color:whitesmoke;
+}
+
+.gallery img
+{
+border-radius: 5%;
+}
+
+.services{
+color:white;
+}
+.clr{
+background-color: #fdbb2d;
+}
